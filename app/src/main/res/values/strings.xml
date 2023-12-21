@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">gostadz</string>
+    <string name="TPQ">TPQ</string>
+    <string name="MASJID">MASJID</string>
+    <string name="INFAQ">INFAQ</string>
+    <string name="About">About religion cant be half and half.</string>
+    <string name="Islami">Islami everytime and everywhere</string>
+    <string name="Email">Email</string>
+    <string name="PilihJenis">Pilih Jenis Kegiatan</string>
+    <string name="SignIn">Sign In</string>
+    <string name="santri">SANTRI</string>
+    <string name="ustadz">USTADZ USTADZAH</string>
+
+    <string name="Login">Login</string>
+    <string name="HomePage">Home Page</string>
+    <string name="JadwalKegiatan">Jadwal Kegiatan</string>
+    <string name="Lihatjadwal">Lihat jadwal kegiatan Yang Telah Tersedia</string>
+    <string name="VideoCeramah">Video Ceramah ""&amp;"" Pengajian</string>
+    <string name="TontonVideo">Tonton video untuk meningkatkan keimananmu </string>
+    <string name="Managejadwal">Manage jadwal kegiatan</string>
+    <string name="AturJadwal">Atur Jadwal kegiatan </string>
+    <string name="ManageVideo">Manage Video Ceramah</string>
+    <string name="Managevideountukjamaah">Manage video untuk jamaah </string>
+
+
+
+    <string name="PilihNominal">SILAHKAN PILIH NOMINAL</string>
+    <string name="Rp25k">25.000</string>
+    <string name="Rp50K">50.000</string>
+    <string name="Rp100K">100.000</string>
+
+
+    <string name="email_blank_error">Email is required</string>
+    <string name="email_invalid_error">Email is invalid</string>
+    <string name="password_length_error">Password require minimum 9 character</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+
+</resources>

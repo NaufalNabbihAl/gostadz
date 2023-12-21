@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963731152471",
+    "project_id": "gostadz-4ef0b",
+    "storage_bucket": "gostadz-4ef0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963731152471:android:7e3ac41112a0d26dfa0d12",
+        "android_client_info": {
+          "package_name": "com.tugasakhir.gostadz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYu3V-o1dW-7u_GNQXPeHwtWa5ZuhGwTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
